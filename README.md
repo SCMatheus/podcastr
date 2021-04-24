@@ -22,6 +22,7 @@
 ## Sobre o Podcastr
 
 O Podcastr é uma pagina onde o usuário pode acessar a lista de podcasts da rocketseat e ouvir. Desenvolvido durante a Next Level Week #5 da [Rocketseat](https://rocketseat.com.br/).
+<br>
 O projeto pode ser adaptado para qualquer podcast.
 
 <br>
