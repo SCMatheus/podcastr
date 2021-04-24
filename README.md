@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/linguagens-2-blueviolet">
 </p>
 
-<img align="right" src="public/favicon.png" width="35%" alt="Podcastr">
+<img align="right" src="public/favicon.png" width="20%" alt="Podcastr">
 
 ## Tópicos 
 
@@ -28,7 +28,7 @@ O projeto pode ser adaptado para qualquer podcast.
 
 <p align="center">
   <a href="https://www.figma.com/file/UpZP6Qt04yFFMi8l8oD2kJ/Podcastr-(Copy)?node-id=160%3A2761">
-    <img alt="Figma" src="public/logo.svg"/>
+    <img alt="Figma" src="public/capa.png"/>
   </a>
 </p>
 
